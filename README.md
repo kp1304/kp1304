@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kp1304
-- 👀 I’m interested in HTML,CSS,JAVASCRIPT,PHP,SQL and keeping codex of logics and custom css
+- 👀 I’m interested in HTML,CSS,JAVASCRIPT,PHP,SQL and keeping codex of logics
 - 🌱 I’m currently learning Laravel
 - 💞️ I’m not looking into collaboration currently 
 - 📫 How to reach me
